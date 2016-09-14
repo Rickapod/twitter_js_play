@@ -14,9 +14,10 @@
 		"collection_name": "tasks"
 	},
 	"twitter": {
-		"consumer_key": "numbers_and_stuff",
-		"consumer_secret": "numbers_and_stuff",
-		"access_key": "numbers",
-		"access_secret": "numbers_and_stuff"
+		"consumerKey": "numbers_and_stuff",
+		"consumerSecret": "numbers_and_stuff",
+		"accessToken": "numbers",
+		"accessTokenSecret": "numbers_and_stuff",
+		"callBackUrl" : "numbersAndStuff"
 	}
 }
